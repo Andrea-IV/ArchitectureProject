@@ -1,0 +1,8 @@
+C:\Users\Andrea\Desktop\WORKSPACE-GIT\Nouveau dossier\projet_architecture\src\projet_architecture.Core\bin\Debug\netstandard2.0\projet_architecture.Core.deps.json
+C:\Users\Andrea\Desktop\WORKSPACE-GIT\Nouveau dossier\projet_architecture\src\projet_architecture.Core\bin\Debug\netstandard2.0\projet_architecture.Core.dll
+C:\Users\Andrea\Desktop\WORKSPACE-GIT\Nouveau dossier\projet_architecture\src\projet_architecture.Core\bin\Debug\netstandard2.0\projet_architecture.Core.pdb
+C:\Users\Andrea\Desktop\WORKSPACE-GIT\Nouveau dossier\projet_architecture\src\projet_architecture.Core\obj\Debug\netstandard2.0\projet_architecture.Core.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\WORKSPACE-GIT\Nouveau dossier\projet_architecture\src\projet_architecture.Core\obj\Debug\netstandard2.0\projet_architecture.Core.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\WORKSPACE-GIT\Nouveau dossier\projet_architecture\src\projet_architecture.Core\obj\Debug\netstandard2.0\projet_architecture.Core.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\WORKSPACE-GIT\Nouveau dossier\projet_architecture\src\projet_architecture.Core\obj\Debug\netstandard2.0\projet_architecture.Core.dll
+C:\Users\Andrea\Desktop\WORKSPACE-GIT\Nouveau dossier\projet_architecture\src\projet_architecture.Core\obj\Debug\netstandard2.0\projet_architecture.Core.pdb

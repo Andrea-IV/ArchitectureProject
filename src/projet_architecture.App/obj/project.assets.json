@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "projet_architecture.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/projet_architecture.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/projet_architecture.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projet_architecture.Core/1.0.0": {
+      "type": "project",
+      "path": "../projet_architecture.Core/projet_architecture.Core.csproj",
+      "msbuildProject": "../projet_architecture.Core/projet_architecture.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "projet_architecture.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Andrea\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Andrea\\Desktop\\WORKSPACE-GIT\\Nouveau dossier\\projet_architecture\\src\\projet_architecture.App\\projet_architecture.App.csproj",
+      "projectName": "projet_architecture.App",
+      "projectPath": "C:\\Users\\Andrea\\Desktop\\WORKSPACE-GIT\\Nouveau dossier\\projet_architecture\\src\\projet_architecture.App\\projet_architecture.App.csproj",
+      "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andrea\\Desktop\\WORKSPACE-GIT\\Nouveau dossier\\projet_architecture\\src\\projet_architecture.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Andrea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Andrea\\Desktop\\WORKSPACE-GIT\\Nouveau dossier\\projet_architecture\\src\\projet_architecture.Core\\projet_architecture.Core.csproj": {
+              "projectPath": "C:\\Users\\Andrea\\Desktop\\WORKSPACE-GIT\\Nouveau dossier\\projet_architecture\\src\\projet_architecture.Core\\projet_architecture.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
